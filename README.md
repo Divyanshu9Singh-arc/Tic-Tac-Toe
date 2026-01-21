@@ -20,18 +20,6 @@ A simple and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaS
 * **CSS3** – Styling and layout
 * **JavaScript** – Game logic and DOM manipulation
 
----
-
-## 📂 Project Structure
-
-```
-Tic-Tac-Toe/
-│
-├── tic-toe.html        # Main HTML file
-├── tic-toe.css       # Styling file
-├── tic-toe.js        # JavaScript logic
-└── README.md         # Project documentation
-```
 
 
 
@@ -61,7 +49,7 @@ Tic-Tac-Toe/
 
 **Divyanshu Singh**
 B.Tech Computer Science Student
-Passionate about web development and learning new technologies
+Passionate about web development and learning new technologies.
 
 ---
 
